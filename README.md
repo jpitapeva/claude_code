@@ -26,9 +26,7 @@ If you prefer using NPM, you can install it with:
 
 npm install -g @anthropic-ai/claude-code
 
+---
 
+## For more details, visit: https://docs.claude.com/en/docs/claude-code/setup
 
-For more details, visit: https://docs.claude.com/en/docs/claude-code/setup
----------------------------
-OK   
----------------------------
