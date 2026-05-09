@@ -14,7 +14,7 @@ curl -fsSL https://claude.ai/install.cmd -o install.cmd && install.cmd && del in
 
 Then add claude.exe to the PATH environment variable:
 
-C:\Users\%username%\.local\bin
+`C:\Users\%username%\.local\bin`
 
 
 ----
